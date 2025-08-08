@@ -1,5 +1,5 @@
 
-<img width="900" height="250" alt="Fombuena (2)" src="https://github.com/user-attachments/assets/8b177ce9-67e0-47b2-8a90-3efab53fb7db" />
+![Uploading DSASADSAD.jpg…]()
 
 
 <h1 align="center">Hello there, I'm Czarina! 🩷</h1>
