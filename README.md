@@ -1,5 +1,5 @@
 
-![Uploading DSASADSAD.jpg…]()
+<img width="900" height="250" alt="DSASADSAD" src="https://github.com/user-attachments/assets/cb1d9b9f-f97d-453b-8a9f-b98d3eb374e2" />
 
 
 <h1 align="center">Hello there, I'm Czarina! 🩷</h1>
