@@ -6,7 +6,7 @@ I am an **Associate in Computer Technology** graduate from **La Verdad Christian
 - 🌱 I’m currently learning **Laravel, PHP, and exploring more about web development.**
 - 📫 How to reach me: **czarinafombuena2019@gmail.com**
 - ⚡ Fun fact: **I have a dog — her name is Luna!**
-- ⚡ Another Fun fact: My favorite color is **pink**! 🩷
+- ⚡ Another Fun fact: My favorite color is **Pink**! 🩷
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
