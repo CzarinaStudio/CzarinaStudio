@@ -1,4 +1,4 @@
-<img width="600" height="200" alt="banner git " src="https://github.com/user-attachments/assets/5ea4eba4-68ac-4f24-bd5b-e16180863af5" />
+<img width="800" height="200" alt="Fombuena (1)" src="https://github.com/user-attachments/assets/3ad12c3e-26b6-4535-a48a-ca510d65b313" />
 <h1 align="center">Hello there, I'm Czarina! 🩷</h1>
 <h3 align="center">A Work in Progress — Just Like My Code</h3>
 
