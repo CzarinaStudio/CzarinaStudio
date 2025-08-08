@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Czarina!</h1>
 <h3 align="center">A Work in Progress — Just Like My Code</h3>
 
-I am an **Associate in Computer Technology** graduate from **La Verdad Christian College** and currently pursuing a degree in **Information Systems**. I have a deep passion for **UI/UX design** and enjoy creating digital experiences that balance functionality and aesthetics. My journey in tech is not limited to programming — I also explore **graphical arts** and various creative software tools, combining design and development to bring ideas to life.
+I am an **Associate in Computer Technology** graduate from **La Verdad Christian College** and currently pursuing a degree in **Information Systems**. I love creating **UI/UX design** and enjoy creating digital experiences that balance functionality and aesthetics. My journey in tech is not limited to programming — I also explore **graphical arts** and various creative software tools, combining design and development to bring ideas to life.
 
 - 🌱 I’m currently learning **Laravel, PHP, and exploring more about web development.**
 - 📫 How to reach me: **czarinafombuena2019@gmail.com**
