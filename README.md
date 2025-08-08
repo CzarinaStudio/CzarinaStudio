@@ -2,7 +2,6 @@
   <img width="900" height="250" alt="DSASADSAD" src="https://github.com/user-attachments/assets/cb1d9b9f-f97d-453b-8a9f-b98d3eb374e2" />
 </p>
 
-
 <h1 align="center">Hello there, I'm Czarina! 🩷</h1>
 <h3 align="center">A Work in Progress — Just Like My Code</h3>
 
@@ -42,8 +41,7 @@ I am an **Associate in Computer Technology** graduate from **La Verdad Christian
 </a> 
 </p>
 
-![b8a798b1-8b7b-4043-9ff8-56a0d1d85eca](https://github.com/user-attachments/assets/84f7153a-d243-418c-a454-b47c85b4416b)
-
+![THANKS FOR VISITING! - LUNA (1)](https://github.com/user-attachments/assets/c78c3b49-b4f5-4d9e-81ee-a22a6b98be85)
 
 
 
