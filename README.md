@@ -42,7 +42,8 @@ I am an **Associate in Computer Technology** graduate from **La Verdad Christian
 </a> 
 </p>
 
+![b8a798b1-8b7b-4043-9ff8-56a0d1d85eca](https://github.com/user-attachments/assets/84f7153a-d243-418c-a454-b47c85b4416b)
 
-![THANKS FOR VISITING! - LUNA](https://github.com/user-attachments/assets/85cd7dbf-3218-431e-b784-3161bc01d159)
+
 
 
