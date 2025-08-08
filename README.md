@@ -1,7 +1,5 @@
 
-<center>
-    <img width="900" height="250" alt="Czarina Fombuena" src="https://github.com/user-attachments/assets/45fd38b5-8c0e-4646-b2ce-8ba0ab436729" />
-</center>
+<img width="900" height="250" alt="Fombuena (2)" src="https://github.com/user-attachments/assets/8b177ce9-67e0-47b2-8a90-3efab53fb7db" />
 
 
 <h1 align="center">Hello there, I'm Czarina! 🩷</h1>
