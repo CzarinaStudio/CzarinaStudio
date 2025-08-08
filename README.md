@@ -41,3 +41,8 @@ I am an **Associate in Computer Technology** graduate from **La Verdad Christian
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </a> 
 </p>
+
+https://github.com/user-attachments/assets/95e51f32-218f-48bb-8cbb-532171a59ad7
+
+
+
