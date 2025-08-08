@@ -1,6 +1,6 @@
 
 <center>
-    <img width="800" height="250" alt="Czarina Fombuena" src="https://github.com/user-attachments/assets/45fd38b5-8c0e-4646-b2ce-8ba0ab436729" />
+    <img width="900" height="250" alt="Czarina Fombuena" src="https://github.com/user-attachments/assets/45fd38b5-8c0e-4646-b2ce-8ba0ab436729" />
 </center>
 
 
